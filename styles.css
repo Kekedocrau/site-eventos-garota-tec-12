@@ -1,0 +1,11 @@
+.header{
+    background-color: rgb(159, 255, 15);
+    padding:24px;
+}
+.card{
+    width: 400px;
+}
+.image{
+    width: 60%;
+    height: 400px;
+}
